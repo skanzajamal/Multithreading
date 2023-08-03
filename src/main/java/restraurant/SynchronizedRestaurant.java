@@ -1,6 +1,6 @@
 package restraurant;
 
-public class MultiThreading {
+public class SynchronizedRestaurant {
 
     public static void main(String[] args) throws InterruptedException {
 
