@@ -1,3 +1,5 @@
+package restraurant;
+
 public class FastFoodRestaurant {
 
     private String lastName;
@@ -39,4 +41,4 @@ public class FastFoodRestaurant {
         }
     }
 
-}
+} //ENDCLASS

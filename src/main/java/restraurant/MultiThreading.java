@@ -1,3 +1,5 @@
+package restraurant;
+
 public class MultiThreading {
 
     public static void main(String[] args) throws InterruptedException {
@@ -21,6 +23,6 @@ public class MultiThreading {
         System.out.println("Total number of burgers sold: " + fastFoodRestaurant.getNoOfBurgerSold());
         System.out.println("Last name of client: " + fastFoodRestaurant.getLastName());
         System.out.println("Total execution time " + (System.currentTimeMillis() - startTime) + " in milliseconds");
-
     }
-}
+
+} //ENDCLASS
